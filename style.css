@@ -1,0 +1,6 @@
+.headings {
+    font-style: italic;color: rgb(207, 79, 6);
+}
+.headings  :hover {
+    color: aqua;
+}
